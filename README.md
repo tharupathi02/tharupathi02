@@ -1,14 +1,13 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQFWG3Vf3XLvqA/profile-displaybackgroundimage-shrink_350_1400/0/1689153056181?e=1698278400&v=beta&t=f68wIp1fv4kDs001ql2HjW_G1B-oLno4XiclKBOMl0s)](https://github.com/tharupathi02)
 <h1 align="center">Hello 👋! My name is Deashan Tharupathi and I'm a Software Engineer, from Sri Lanka.</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ###
-## About Me!<br>
-I'm a Highly motivated Software Engineering undergraduate seeking a challenging Software Engineer Intern position. Equipped with strong programming skills, a passion for technology, and effective communication abilities. Quick learner and excellent problem-solver with a drive to contribute to real-world projects. Thrives in collaborative environments and aims to make a meaningful impact through innovative software solutions.  
+## About Me!<be>
+<p align="justify"> I'm a Highly motivated Software Engineering undergraduate seeking a challenging Software Engineer Intern position. Equipped with strong programming skills, a passion for technology, and effective communication abilities. Quick learner and excellent problem-solver with a drive to contribute to real-world projects. Thrives in collaborative environments and aims to make a meaningful impact through innovative software solutions. </p>
 
-<br>
-
--  🌱 I’m currently learning Software Engineering </p>
--  💬 Ask me about<br> Kotlin | Dart | Flutter| Android Studio| Mobile Application Development | Java | C# | Desktop Application Development | Web Application Development </p>
+-  🌱 I’m currently learning Software Engineering | Flutter & Dart </p>
+-  💬 Ask me about<br> Kotlin | Dart | Flutter | Android Studio | Mobile Application Development | Java | C# | Desktop Application Development | Web Application Development </p>
 -  📫 How to reach me tharupathi02@gmail.com </p>
 
 ###
