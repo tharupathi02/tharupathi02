@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Deshan Tharupathi</h1>
-<h3 align="center">from Sri Lanka</h3>
+<h1 align="center">Hello 👋, I'm Deshan Tharupathi</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharupathi02&label=Profile%20views&color=0e75b6&style=flat" alt="tharupathi02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharupathi02" alt="tharupathi02" /></a> </p>
 
 - 🌱 I’m currently learning **Software Engineering**
+
+- 💬 Ask me about **Kotlin | Dart | Flutter| Android Studio| Mobile Application Decelopment | Java | C# | Desktop Application Development | Web Application Development**
+
+- 📫 How to reach me **tharupathi02@gmail.com**
+
+- ⚡ Fun fact **I think I am Funny 🤣😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
